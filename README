@@ -1,3 +1,15 @@
 Cheap Spherebot
 
+
 The Cheap Spherebot is a based of a clone of the Original EggBot.  Initial design for the cheap eggbot was borrowed heavily from "Revised Fully Printable Eggbot" http://www.thingiverse.com/thing:20398 by Glasswalker on Thingiverse.
+
+This project is divided into two parts, The parts required for building of the Cheap Spherebot, and the Arduino code to control it.  Everything here is still in very early development.
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
